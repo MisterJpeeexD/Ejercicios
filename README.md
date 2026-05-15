@@ -2,36 +2,23 @@
 
 Ultima actualizacion: 15-05-26 12:08
 
-Este repositorio contiene ejercicios de:
+Este repositorio contiene instructivos de uso de:
 
 - Variables
+- Listas
+- Bucles
+- Funciones
+- Caso de Uso: Menu (Switch)
+- Objetos
 - Operadores
-- Comparaciones
-- Operadores lógicos
+- Ingresar valores de forma manual (Prompt)
 
- # Detalle ejercicios
+## Repositorio "Ejecicios": Pon en practica lo que sabes
 
-- Ejercicio 1 - console.log & for:
-    - `console.log()`
-    - `if(var1==var2){}`
-
-- Ejercicio 2 - prompt:
-    - prompt
-    - uso variables con `console.log(example ${var})`
-
-- Ejercicio 3 - for, while & if
-    - `for(i;var1==var2;i++){}`
-    - `for(list in array){}`
-    - `for(list of array){}`
-    - `while(true){}`
-    - `if(var1==var2){}`
-
-- Ejercicio 4 - Repaso Ejercicio 1, 2 y 3
-
-## Repositorio "Introduccion a Js"
-
-- Si necesitas revisar apuntes de uso de instrucciones en lenguaje JavaScript, visita el siguiente link:
+- Si quieres medir tus habilidades de programacion en Js. entra al siguiente repositorio:
 https://github.com/MisterJpeeexD/Introduccion-JavaScript.git
+
+- Alli realizo mis ejercicios donde mejoro mis habilidades
 
 ## Autor
 Jean Paul Santander
