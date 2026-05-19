@@ -1,6 +1,6 @@
-# Ejercicios JavaScript Básico
+# Introducción a JavaScript
 
-Ultima actualizacion: 15-05-26 12:08
+Ultima actualizacion: 19-05-2026 10:23
 
 Este repositorio contiene instructivos de uso de:
 
@@ -16,7 +16,7 @@ Este repositorio contiene instructivos de uso de:
 ## Repositorio "Ejecicios": Pon en practica lo que sabes
 
 - Si quieres medir tus habilidades de programacion en Js. entra al siguiente repositorio:
-https://github.com/MisterJpeeexD/Introduccion-JavaScript.git
+https://github.com/MisterJpeeexD/Ejercicios-JS
 
 - Alli realizo mis ejercicios donde mejoro mis habilidades
 
